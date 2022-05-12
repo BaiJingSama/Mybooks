@@ -1,5 +1,12 @@
 # 布局基础、float布局、flex布局
 
+## 草图软件
+
+- balsamiq
+- figma
+- 墨刀
+- adobe
+
 ## 布局基础
 
 ### 布局是什么
